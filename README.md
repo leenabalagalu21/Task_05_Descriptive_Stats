@@ -1,5 +1,11 @@
 # Task_05_Descriptive_Stats
+This project explores the reasoning capabilities of Large Language Models (LLMs) like ChatGPT when prompted with natural language questions about structured sports data. Specifically, it analyzes the 2025 Syracuse Women’s Lacrosse season using two datasets:
 
+syracuse_lacrosse_2025_cleaned.csv: Game-level results (scores, opponents, date, win/loss, location).
+
+syracuse_lacrosse_2025_player_stats.csv: Player-level statistics (goals, assists, games played, turnovers, accuracy, etc.).
+
+The goal is to challenge an LLM to answer basic, analytical, and strategic questions using prompt engineering, and then validate or correct the model’s responses with Python.
 ---
 
 ## 💬 Sample LLM Prompts and Outcomes
